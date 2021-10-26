@@ -1,5 +1,5 @@
 # Vinayaka K V
-🎓 [NITK](https://www.nitk.ac.in/) (soon-to-be-)graduate | 💻 Makes dreams real through the power of programming | 🌱 Eco-concious
+🎓 [NITK](https://www.nitk.ac.in/) graduate | 💻 Makes dreams real through the power of programming | 🌱 Eco-concious
 
 ## Interested in
 - Problem Solving
