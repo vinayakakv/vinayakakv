@@ -1,12 +1,8 @@
 # Vinayaka K V
-🎓 [NITK](https://www.nitk.ac.in/) graduate | 💻 Makes dreams real through the power of programming | 🌱 Eco-concious
-
-## Interested in
-- Problem Solving
-- Interface development
-- Computational models of Indic languages
+[vinaykakakv.com](https://vinayakakv.com) |🎓 [NITK](https://www.nitk.ac.in/) graduate | 💻 Makes dreams real through the power of programming | 🌱 Eco-concious
 
 ## Some works!
+ - [Benaka Malnad Stores](https://benakastores.com): Website for the family business we run
  - [AndMal-Detect](https://github.com/vinayakakv/android-malware-detection): Graph Convolutional Networks meet Android malware detection! A research project done at NITK, Surathkal
  - [OpenAnalysis](https://github.com/OpenWeavers/openanalysis): Algorithm analysis framework + Practical Python tutorial designed for Algorithm Lab at SJCE, Mysuru
  - [COMapping](https://github.com/OpenWeavers/COMapping): API driven marks entry + analysis platform designed to make life of teachers at SJCE, Mysuru easier!
