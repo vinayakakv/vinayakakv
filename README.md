@@ -15,7 +15,7 @@ Nowadays, I'm excited about and exploring:
 - AngularJS
 - GIS and Spatial Querying
 
-Feel free to [contact me](mailto:me.vinayakakv@gmail.com)! I'm happy to talk to you anything related from tech to environment and conservation!
+Checkout my [Resume](/Vinayaka%20Resume.pdf) for an in-depth info about the places I've been and projects I've worked on. Feel free to [contact me](mailto:me.vinayakakv@gmail.com)! I'm happy to talk to you anything related from tech to environment and conservation!
 
 ## Some works!
  - [Benaka Malnad Stores](https://benakastores.com): Website for the family business we run; GraphCMS, NextJS+Mantine, MongoDB, SendGrid.
