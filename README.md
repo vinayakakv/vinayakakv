@@ -1,21 +1,7 @@
 # Vinayaka K V
 [vinaykakakv.com](https://vinayakakv.com) | 💻 Makes dreams real through the power of programming | 🌱 Eco-concious
 
-## ✨Open for roles!✨
-I'm looking for a remote Fullstack/frontend developer role. In the past, I've worked with following technologies:
-- Pulumi
-- GitLab CI/CD
-- AWS EKS, EC2, Lambda, API Gateway
-- ReactJS, NextJS, Gatsby
-- TypeScript, NodeJS, ExpressJS
-- Python, PyTorch
-
-Nowadays, I'm excited about and exploring:
-- VueJS
-- AngularJS
-- GIS and Spatial Querying
-
-Checkout my [Resume](/Vinayaka%20Resume.pdf) for an in-depth info about the places I've been and projects I've worked on. Feel free to [contact me](mailto:me.vinayakakv@gmail.com)! I'm happy to talk to you anything related from tech to environment and conservation!
+Head to [dev.vinayakakv.com](https://dev.vinayakakv.com) read some tech articles!
 
 ## Some works!
  - [Benaka Malnad Stores](https://benakastores.com): Website for the family business we run; GraphCMS, NextJS+Mantine, MongoDB, SendGrid.
