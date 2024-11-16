@@ -6,6 +6,7 @@ Head to [dev.vinayakakv.com](https://dev.vinayakakv.com) read some tech articles
 ## Some works!
  - [Benaka Malnad Stores](https://benakastores.com): Website for the family business we run; GraphCMS, NextJS+Mantine, MongoDB, SendGrid.
  - Pulumify -- Work done at Mainteny to bring its entire infra to IaC using Pulumi. Final migration was 0-downtime 🎉
+ - [Akshara](https://akshara.vinayakakv.com) -- a set of tools to work with Indic languages. 
  - Morpheus -- Work done at Mainteny to onboard its business customers coming with data in excel sheets. In-house alternative to solutions like [FlatFile](https://flatfile.com/) and [OneSchema](https://www.oneschema.co/).
  - [AndMal-Detect](https://github.com/vinayakakv/android-malware-detection): Graph Convolutional Networks meet Android malware detection! A research project done at NITK, Surathkal
  - [OpenAnalysis](https://github.com/OpenWeavers/openanalysis): Algorithm analysis framework + Practical Python tutorial designed for Algorithm Lab at SJCE, Mysuru
